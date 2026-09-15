@@ -84,7 +84,7 @@ Sistema desenvolvido para monitorar condições relacionadas a enchentes em Sant
 </p>
 
 <p align="center">
-  <a href="LINK_DO_PROJETO"><b>🔗 Ver projeto</b></a>
+  <a href="https://github.com/Samuel-Alves-dev/Projeto-MAPE-Toro.git"><b>🔗 Ver projeto</b></a>
 </p>
 
 </td>
@@ -104,7 +104,7 @@ Sistema desenvolvido para auxiliar na organização e gerenciamento dos Equipame
 </p>
 
 <p align="center">
-  <a href="LINK_DO_PROJETO"><b>🔗 Ver projeto</b></a>
+  <a href="https://github.com/Samuel-Alves-dev/EPI-Control.git"><b>🔗 Ver projeto</b></a>
 </p>
 
 </td>
