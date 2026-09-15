@@ -124,11 +124,11 @@ Sistema desenvolvido para auxiliar na organização e gerenciamento dos Equipame
 Plataforma criada para centralizar organização acadêmica, produtividade e acompanhamento das atividades estudantis.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,supabase" height="32"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,supabase" height="32"/>
 </p>
 
 <p align="center">
-  <a href="LINK_DO_PROJETO"><b>🔗 Ver projeto</b></a>
+  <a href="https://github.com/Samuel-Alves-dev/StudyFlow.git"><b>🔗 Ver projeto</b></a>
 </p>
 
 </td>
