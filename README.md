@@ -69,12 +69,12 @@ Estudante de Mecatrônica na Escola Técnica Roberto Rocca, desenvolvendo projet
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
-<h3 align="center">🌧️ Sistema de Prevenção de Enchentes</h3>
+<h3 align="center">🌧️ Projeto MAPE — Toró</h3>
 
 <p align="center">
-  <img src="./assets/mape-enchentes.png" width="100%">
+  <img src="./assets/toro-logo.png" width="100%">
 </p>
 
 Sistema desenvolvido para monitorar condições relacionadas a enchentes em Santa Cruz, combinando sensores físicos e dados externos para identificar possíveis situações de risco e emitir alertas.
@@ -89,12 +89,12 @@ Sistema desenvolvido para monitorar condições relacionadas a enchentes em Sant
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
-<h3 align="center">🦺 Organização de EPIs</h3>
+<h3 align="center">🦺 Controle de EPIs</h3>
 
 <p align="center">
-  <img src="./assets/organizacao-epis.png" width="100%">
+  <img src="./assets/epi-control-logo.png" width="100%">
 </p>
 
 Sistema desenvolvido para auxiliar na organização e gerenciamento dos Equipamentos de Proteção Individual utilizados na escola.
@@ -113,12 +113,12 @@ Sistema desenvolvido para auxiliar na organização e gerenciamento dos Equipame
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <h3 align="center">📚 StudyFlow</h3>
 
 <p align="center">
-  <img src="./assets/studyflow.png" width="100%">
+  <img src="./assets/studyflow-logo.png" width="100%">
 </p>
 
 Plataforma criada para centralizar organização acadêmica, produtividade e acompanhamento das atividades estudantis.
@@ -133,12 +133,12 @@ Plataforma criada para centralizar organização acadêmica, produtividade e aco
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <h3 align="center">💰 Meu Patrimônio</h3>
 
 <p align="center">
-  <img src="./assets/meu-patrimonio.png" width="100%">
+  <img src="./assets/meu-patrimonio-logo.png" width="100%">
 </p>
 
 Sistema para organização financeira e acompanhamento de patrimônio, movimentações e informações financeiras.
