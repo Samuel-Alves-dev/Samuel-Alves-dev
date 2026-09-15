@@ -144,7 +144,7 @@ Plataforma criada para centralizar organização acadêmica, produtividade e aco
 Sistema para organização financeira e acompanhamento de patrimônio, movimentações e informações financeiras.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,supabase" height="32"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,supabase" height="32"/>
 </p>
 
 <p align="center">
